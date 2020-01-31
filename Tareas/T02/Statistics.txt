@@ -1,0 +1,42 @@
+Estadísticas:
+
+Ganancia Promedio Final por Cliente: -11.638861714285715
+
+Ganancia Promedio Final por Personalidad:
+ludopata: -23.817103260869565
+kibitzer: -0.39405882352941174
+dieciochero: -9.631697674418604
+ganador: -3.0737965116279082
+millonario: -20.052666666666667
+
+Tiempo Promedio de Estadía por Cliente: 26.849580952380954 Minutos
+
+Tiempo Promedio de Estadía por Personalidad:
+ludopata: 30.54320652173913 Minutos
+kibitzer: 3.4007843137254903 Minutos
+dieciochero: 12.240600775193798 Minutos
+ganador: 41.45562015503876 Minutos
+millonario: 45.534180790960455 Minutos
+
+Ganancia Promedio del Casino por Día: 5887.7919999999995
+
+Juego que Generó Mayor Ganancia Neta: Juego: Ruleta, Ganancia: 5181.7125
+
+Porcentaje de Clientes que Contó Cartas: 0.0 %
+
+Razones de Salida del Casino:
+Motivos Personales: 99.03961584633853 %
+Sin Dinero: 0.9603841536614646 %
+Expulsado: 0.0 %
+
+Tiempo Total Sin Funcionar de Cada Instalación:
+Instalación: restobar, Id: 0, Tiempo de Inactividad: 0.0 Horas
+Instalación: tarot, Id: 1, Tiempo de Inactividad: 16.75 Horas
+Instalación: tarot, Id: 2, Tiempo de Inactividad: 9.55 Horas
+Instalación: tarot, Id: 3, Tiempo de Inactividad: 24.0 Horas
+Instalación: baños, Id: 4, Tiempo de Inactividad: 0.0 Horas
+Instalación: baños, Id: 5, Tiempo de Inactividad: 0.0 Horas
+
+Número de Visitas a cada Juego en Promedio por Día:
+Ruleta: 1126.0
+Tragamonedas: 304.0

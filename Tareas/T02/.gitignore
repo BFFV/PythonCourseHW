@@ -1,0 +1,15 @@
+# Python Cache
+
+
+__pycache__/
+
+
+
+# Graphics
+
+
+gui/
+
+# Demo
+
+demo.py

@@ -1,0 +1,13 @@
+# Python Cache
+
+
+__pycache__/
+
+
+
+# Huge Databases
+
+
+data/large/*.csv
+data/medium/*.csv
+data/small/*.csv

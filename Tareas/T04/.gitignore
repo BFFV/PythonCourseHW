@@ -1,0 +1,6 @@
+# Python Cache
+
+
+client/__pycache__/
+server/__pycache__/
+server/database.json

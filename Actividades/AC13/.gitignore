@@ -1,0 +1,10 @@
+# Python Cache
+
+
+client/__pycache__/
+server/__pycache__/
+
+# Files
+
+client/fine.gif
+server/doggo.jpg
